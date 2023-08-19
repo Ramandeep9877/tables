@@ -1,0 +1,60 @@
+* {
+  margin: 0%;
+}
+.nav > h4 {
+  display: inline-block;
+  color: white;
+  width: 1120px;
+  cursor: pointer;
+}
+.nav > a {
+  text-decoration: none;
+  color: white;
+  padding-inline: 20px;
+}
+.nav > a:hover {
+  color: blueviolet;
+}
+.nav{
+  background-color: black;
+  padding: 10px;
+  position: sticky;
+  top: 0;
+}
+#cs{
+    margin-bottom: 20px;
+}
+#Books{
+    border-style: ridge;
+    text-align: justify;
+}
+#has{
+    border-style: ridge;
+}
+.border{
+    border-style: ridge;
+    border-width: justify;
+    color: black;
+}
+.bor{
+    border-style: ridge;
+}
+.sc{
+    border-style: ridge; 
+}
+#clr{
+    margin-left: 20px;
+    text-align: center;
+}
+#stc{
+    margin-bottom: 20px;
+}
+.cro{
+    margin-bottom: 20px;
+    text-align: center;
+}
+#sss{
+    background-color: black;
+    color: white;
+    margin-bottom: 60px;
+}
